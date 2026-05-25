@@ -5,4 +5,5 @@ CONTENT : It showcasesthe following
 * Local repo setup and remote linking
 * HTML webpage creation
 * Synchronized commits/pushes
+ 
 --------------------------------------------- DESCRIPTION ENDED HERE --------------------------------------------
